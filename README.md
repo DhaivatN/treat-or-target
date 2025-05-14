@@ -49,21 +49,21 @@ We simulate uplift-based marketing using three modeling strategies:
 ## 📈 Key Visuals
 
 ### 📊 Cumulative Gain Curve
-![Gain Curve](assets/gain_curve.png)
+![Gain Curve](gain_curve.png)
 
 LGWUM showed superior targeting capability, especially in the top 30% of users.
 
 ---
 
 ### 🪜 Uplift Score Deciles
-![Deciles](assets/deciles.png)
+![Deciles](deciles.png)
 
 Conversion rates increase per decile — indicating strong uplift ranking behavior.
 
 ---
 
 ### 🧮 Score Distribution
-![Uplift Distribution](assets/uplift_dist.png)
+![Uplift Distribution](uplift_dist.png)
 
 Scores cluster around zero with slight positive skew — ideal for targeting the persuadable.
 
